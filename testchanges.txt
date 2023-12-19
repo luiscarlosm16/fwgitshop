@@ -1,3 +1,8 @@
 Hello!
+<<<<<<< Updated upstream
 This is my new project.
 Hope you enjoy it a lot!
+=======
+Welcome to my first GitHub Project.
+Hope you enjoy it!
+>>>>>>> Stashed changes
