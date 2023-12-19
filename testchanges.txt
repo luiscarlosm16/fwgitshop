@@ -1,4 +1,3 @@
-Main
-Hello
-Changes
-Made
+Hello!
+This is my new project.
+Hope you enjoy it a lot!
